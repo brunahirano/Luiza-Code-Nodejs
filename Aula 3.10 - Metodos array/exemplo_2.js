@@ -11,3 +11,5 @@ frutas.forEach(function(elemento, index, lista){
     }
     console.log(index, elemento);
 });
+
+console.log(frutas);

@@ -1,5 +1,3 @@
-// continue: pular algum pedaço fluxo no laço de retição sem sair do laço
-// break: serve para interromper o laço de repeticão se caso um condição for atendida
 
 let resultado = 0;
 for(let i=0; i<=10; i++){
